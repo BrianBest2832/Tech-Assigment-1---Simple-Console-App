@@ -8,6 +8,8 @@ namespace Tech_Assigment_1___Simple_Console_App
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Professor! I hope this is to your liking!");
+
+            Console.WriteLine("I will be working on my own projects so I can develope my skills.");
         }
     }
 }
